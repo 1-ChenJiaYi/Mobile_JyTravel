@@ -1,7 +1,7 @@
 # Mobile_JyTravel
 ### 项目描述：
 
-项目搭建：Vite + Vue3 + 移动端适配  
+项目搭建：Vite + Vue3 + vue-router + Pinia + axios + 移动端适配  
 
 仿照：https://m.tujia.com/
 
@@ -57,5 +57,5 @@ npm run preview
 
 * 打包的时候遇到了tar-bar引用的静态资源没有被打包的情况：
 
-  正在解决中....
+  正在解决中...
 
